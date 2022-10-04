@@ -91,3 +91,15 @@ img {
 .initialDrawing {
     width: 60%;
 }
+
+.questions {
+    justify-content: center;
+    padding: 2px;
+    margin: 10px;
+    border: 5px solid black;
+}
+
+#question {
+    color: navy;
+    font-family: Monaco;
+}
