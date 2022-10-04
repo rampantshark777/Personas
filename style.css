@@ -60,7 +60,7 @@ img {
 }
 
 .mapPicture {
-    width: 575px;
+    width: 100%;
     height: auto;
 }
 
@@ -79,4 +79,8 @@ img {
 
 .storyboardPicture {
     width: 100%
+}
+
+.initialDrawing {
+    width: 50%;
 }
