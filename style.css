@@ -24,6 +24,7 @@ h4 {
 
 p {
     font-weight: bolder;
+    padding: 8px;
 }
 
 img {
@@ -46,6 +47,8 @@ img {
     width: 45%;
     height: auto;
     margin: 0 2.5%;
+    padding: 5px;
+    border: 5px solid black;
 }
 
 #observationsBox {
@@ -56,7 +59,9 @@ img {
 
 .observationsItem {
     width:45%;
-    margin: 0 2.5%;
+    margin: 1% 2.5%;
+    padding: 5px;
+    border: 5px solid black;
 }
 
 .mapPicture {
@@ -75,6 +80,8 @@ img {
     height: auto;
     margin: 2% 3%;
     text-align: center;
+    padding: 5px;
+    border: 5px solid black;
 }
 
 .storyboardPicture {
@@ -82,5 +89,5 @@ img {
 }
 
 .initialDrawing {
-    width: 50%;
+    width: 60%;
 }
