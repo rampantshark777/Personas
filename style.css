@@ -1,0 +1,82 @@
+body {
+    background-color: pink;
+}
+
+h1 {
+    color: red;
+    font-family: "Helvetica Neue";
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-weight: bold;
+}
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+    font-weight: bold;
+}
+
+p {
+    font-weight: bolder;
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+    max-width: 1000px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#empathyMapsBox {
+    display: flex;
+    justify-content: center;
+    height: auto;
+}
+
+.empathyMapsItem {
+    width: 45%;
+    height: auto;
+    margin: 0 2.5%;
+}
+
+#observationsBox {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.observationsItem {
+    width:45%;
+    margin: 0 2.5%;
+}
+
+.mapPicture {
+    width: 575px;
+    height: auto;
+}
+
+#storyboardBox {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.storyboardItem {
+    width: 25%;
+    height: auto;
+    margin: 2% 3%;
+    text-align: center;
+}
+
+.storyboardPicture {
+    width: 100%
+}
