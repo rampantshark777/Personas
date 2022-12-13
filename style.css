@@ -24,7 +24,8 @@ h4 {
 
 p {
     font-weight: bolder;
-    padding: 8px;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 img {
@@ -102,4 +103,19 @@ img {
 #question {
     color: navy;
     font-family: Monaco;
+}
+
+.back {
+    width: 12%;
+    font-size: 120%;
+    margin: 2%;
+    background-color: navy;
+    color: white;
+    border-color: white;
+    border-radius: 8%;
+}
+
+button:hover {
+    background-color: #a2ffbf;
+    color: black;
 }
